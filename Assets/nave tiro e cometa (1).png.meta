@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: f8e7900c37c70e54c9525544d5633ceb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6226849741722316411
+    second: nave tiro e cometa (1)_0
+  - first:
+      213: -7456198724892087705
+    second: nave tiro e cometa (1)_1
+  - first:
+      213: 7438242655060553953
+    second: nave tiro e cometa (1)_2
+  - first:
+      213: -8193957771895257860
+    second: nave tiro e cometa (1)_3
+  - first:
+      213: -498163911173292860
+    second: nave tiro e cometa (1)_4
+  - first:
+      213: 5959839037734832944
+    second: nave tiro e cometa (1)_5
+  - first:
+      213: -6121152662899841883
+    second: nave tiro e cometa (1)_6
+  - first:
+      213: 6666473770319913429
+    second: nave tiro e cometa (1)_7
+  - first:
+      213: -1268759576712588437
+    second: nave tiro e cometa (1)_8
+  - first:
+      213: -8720437983242782772
+    second: nave tiro e cometa (1)_9
+  - first:
+      213: -1804420339145584211
+    second: nave tiro e cometa (1)_10
+  - first:
+      213: 8271663473802109839
+    second: nave tiro e cometa (1)_11
+  - first:
+      213: -2594634290013578711
+    second: nave tiro e cometa (1)_12
+  - first:
+      213: 3985092643211165498
+    second: nave tiro e cometa (1)_13
+  - first:
+      213: -1136335388056458559
+    second: nave tiro e cometa (1)_14
+  - first:
+      213: -3880596836296944036
+    second: nave tiro e cometa (1)_15
+  - first:
+      213: 6224523867867791111
+    second: nave tiro e cometa (1)_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_0
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1547
+        width: 119
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e671d49d63a6650800000000000000
+      internalID: 6226849741722316411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1556
+        width: 119
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a261ca3c2468890800000000000000
+      internalID: -7456198724892087705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1565
+        width: 119
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0fa080942f93760800000000000000
+      internalID: 7438242655060553953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1529
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4c1a5e1d6394e80800000000000000
+      internalID: -8193957771895257860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1385
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccb89aef8a2619f0800000000000000
+      internalID: -498163911173292860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1385
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bc0ba370a95b250800000000000000
+      internalID: 5959839037734832944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1385
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a42be7951c4d0ba0800000000000000
+      internalID: -6121152662899841883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1187
+        width: 20
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1a068d292148c50800000000000000
+      internalID: 6666473770319913429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1187
+        width: 20
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63dbac13e5746ee0800000000000000
+      internalID: -1268759576712588437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 917
+        width: 119
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc77dfa6bd7caf680800000000000000
+      internalID: -8720437983242782772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 926
+        width: 128
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1dcb3034965f6e0800000000000000
+      internalID: -1804420339145584211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 683
+        width: 128
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836c81ba1adac270800000000000000
+      internalID: 8271663473802109839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_12
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 674
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a51b53cd10efbd0800000000000000
+      internalID: -2594634290013578711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 233
+        width: 119
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fbf9325a4ed4730800000000000000
+      internalID: 3985092643211165498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 233
+        width: 119
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca60313cfcea30f0800000000000000
+      internalID: -1136335388056458559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_15
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 206
+        width: 119
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c561408dcb9552ac0800000000000000
+      internalID: -3880596836296944036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nave tiro e cometa (1)_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 197
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f33389a73f16650800000000000000
+      internalID: 6224523867867791111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nave tiro e cometa (1)_0: 6226849741722316411
+      nave tiro e cometa (1)_1: -7456198724892087705
+      nave tiro e cometa (1)_10: -1804420339145584211
+      nave tiro e cometa (1)_11: 8271663473802109839
+      nave tiro e cometa (1)_12: -2594634290013578711
+      nave tiro e cometa (1)_13: 3985092643211165498
+      nave tiro e cometa (1)_14: -1136335388056458559
+      nave tiro e cometa (1)_15: -3880596836296944036
+      nave tiro e cometa (1)_16: 6224523867867791111
+      nave tiro e cometa (1)_2: 7438242655060553953
+      nave tiro e cometa (1)_3: -8193957771895257860
+      nave tiro e cometa (1)_4: -498163911173292860
+      nave tiro e cometa (1)_5: 5959839037734832944
+      nave tiro e cometa (1)_6: -6121152662899841883
+      nave tiro e cometa (1)_7: 6666473770319913429
+      nave tiro e cometa (1)_8: -1268759576712588437
+      nave tiro e cometa (1)_9: -8720437983242782772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
