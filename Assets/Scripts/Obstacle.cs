@@ -21,7 +21,7 @@ public class Obstacle : MonoBehaviour
     private void OnCollisionExit2D(Collision2D collision)
     {
         // Se após a colisão a velocidade for quase zero (parou ou desacelerou muito), aplica a força novamente
-        if (rb.linearVelocity.magnitude < 0.5f)
+        if (rb.linearVelocity.magnitude < 1f)
         {
             Impulsionar();
         }
@@ -32,7 +32,7 @@ public class Obstacle : MonoBehaviour
     {
         // 1. Translação com AddForce
         Vector2 direcao = Random.insideUnitCircle.normalized;
-        float forcaImpulso = Random.Range(10f, 25f);
+        float forcaImpulso = Random.Range(1f, 1f);
         rb.AddForce(direcao * forcaImpulso, ForceMode2D.Impulse);
 
         // 2. Rotação com AddTorque
