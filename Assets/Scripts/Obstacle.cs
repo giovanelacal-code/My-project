@@ -21,7 +21,7 @@ public class Obstacle : MonoBehaviour
     private void OnCollisionExit2D(Collision2D collision)
     {
         // Se após a colisão a velocidade for quase zero (parou ou desacelerou muito), aplica a força novamente
-        if (rb.linearVelocity.magnitude < 1f)
+        if (rb.linearVelocity.magnitude < 0.5f)
         {
             Impulsionar();
         }
